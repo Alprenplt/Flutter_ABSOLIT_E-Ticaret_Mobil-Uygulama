@@ -1,5 +1,5 @@
 
-# ABSOLİT ALIŞVERİŞ UTGULAMASI 
+# ABSOLİT ALIŞVERİŞ UYGULAMASI 
 
 ### Kullanılan Diller
 Bu uygulama Android Studio ile Flutter ve dart programlama dili kullanılarak yazılmıştır.
