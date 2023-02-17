@@ -4,7 +4,7 @@
 ### Kullanılan Diller
 Bu uygulama Android Studio ile Flutter ve dart programlama dili kullanılarak yazılmıştır.
 ### PROJE AMACI
- Tüm opsiyonları çalışmasada kullanıcılar kategoriler kısmından istedikleri ürünü seçebilir ve sepete ekleyebilir ve alışveriş yapabilirler. <br>
+ Tüm opsiyonları çalışmasada kullanıcılar kategoriler kısmından istedikleri ürünü seçebilir, sepete ekleyebilir ve alışveriş yapabilirler. <br>
  Projenin mağaza kısmı database ile (Sqlite) çalışmaktadır. Projenin tasarımsal kısmı ve database kısmı mevcuttur. Aşağıdaki görsellerden inceleyebilirsiniz.
  ### Görseller
 <p>
