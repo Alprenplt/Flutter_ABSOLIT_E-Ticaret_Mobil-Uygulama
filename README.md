@@ -1,7 +1,7 @@
 
 # ABSOLİT ALIŞVERİŞ UTGULAMASI 
 
-### Kullanılan diller
+### Kullanılan Diller
 Bu uygulama Android Studio ile Flutter ve dart programlama dili kullanılarak yazılmıştır.
 ### PROJE AMACI
  Tüm opsiyonları çalışmasada kullanıcılar kategoriler kısmından istedikleri ürünü seçebilir ve sepete ekleyebilir ve alışveriş yapabilirler. <br>
